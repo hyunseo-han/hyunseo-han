@@ -1,6 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=97D5E0&height=300&section=header&text=Hyunseo's%20Github&fontSize=90" />
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=97D5E0&height=300&section=header&text=Hyunseo's%20Github&fontSize=90" />
-
     <h2>⚙️Tech Stack⚙️</h2>
     <div align="center">
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"> 
