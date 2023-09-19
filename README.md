@@ -26,9 +26,6 @@
     </div>
 </div>
 <br>
-<div align="center">
-    <h2>🍀GitHub Stats🍀</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=hyunseo-han&show_icons=true&theme=vue" width="40%" height="200">
-</div>
+
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
